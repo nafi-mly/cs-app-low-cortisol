@@ -1,0 +1,40 @@
+# Compiled binaries and object files
+*.o
+*.out
+*.exe
+*.bin
+
+# Build artifacts
+btest
+dlc
+driver.pl
+fshow
+ishow
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Archive files
+archive/
+
+# Test output
+*.log
+
+# Labs
+labs/*
+labs/*/*
+labs/*/**
+
+!labs/datalab/bits.c
+!labs/bomblab/defuser.txt
+!labs/cachelab/csim.c
+!labs/cachelab/trans.c
+!labs/shlab/tsh.c
+!labs/malloclab/mm.c
+!labs/proxylab/proxy.c
