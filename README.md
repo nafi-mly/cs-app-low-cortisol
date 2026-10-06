@@ -49,7 +49,6 @@ CSAPP/
 4. Commits should be funny. If the commit message isn't at least a little unhinged, I'm not having fun.
 
 ## Links
-Read the book. The PDF is widely available if you know where to look.
 - CS:APP Book Site: http://csapp.cs.cmu.edu/
 - CS:APP Labs: https://csapp.cs.cmu.edu/3e/labs.html
 - The PDF: (ask around, it's out there)
